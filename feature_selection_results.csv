@@ -1,0 +1,10 @@
+Method,Important Features
+Information Gain,"['page_load_time', 'most_used_font_face', 'image_percentage', 'video_percentage', 'text_percentage', 'internal_links', 'external_links', 'ssl_certificate', 'color_hex_encoded', 'indexing_status_encoded']"
+Chi-square Test,"['page_load_time', 'most_used_font_face', 'image_percentage', 'video_percentage', 'text_percentage', 'internal_links', 'external_links', 'ssl_certificate', 'secure_protocol', 'color_hex_encoded', 'indexing_status_encoded']"
+Random Forest Importance,"['page_load_time', 'most_used_font_face', 'image_percentage', 'video_percentage', 'text_percentage', 'internal_links', 'external_links', 'ssl_certificate', 'secure_protocol', 'color_hex_encoded', 'indexing_status_encoded']"
+Lasso Regularization,"['page_load_time', 'most_used_font_face', 'image_percentage', 'text_percentage', 'internal_links', 'external_links', 'color_hex_encoded']"
+Recursive Feature Elimination,"['page_load_time', 'image_percentage', 'text_percentage', 'internal_links', 'external_links']"
+Boruta,"['page_load_time', 'image_percentage', 'text_percentage', 'internal_links', 'external_links']"
+PCA,"['PC1', 'PC2', 'PC3', 'PC4', 'PC5']"
+Forward Feature Selection,"['page_load_time', 'text_percentage', 'image_percentage', 'internal_links', 'external_links', 'most_used_font_face', 'color_hex_encoded', 'video_percentage', 'secure_protocol', 'ssl_certificate', 'indexing_status_encoded']"
+Backward Feature Elimination,"['page_load_time', 'image_percentage', 'video_percentage', 'text_percentage', 'internal_links', 'external_links', 'secure_protocol', 'color_hex_encoded']"
