@@ -1,5 +1,4 @@
-Method,Important Features
-
+Method,Important Features:
 Information Gain,"['page_load_time', 'internal_links','color_hex_encoded', 'external_links', 'text_percentage', 'indexing_status_encoded']"
 Chi-square Test,"['page_load_time', 'most_used_font_face', 'image_percentage', 'text_percentage', 'internal_links', 'external_links', 'color_hex_encoded', 'indexing_status_encoded']"
 Fisher’s Score, "['page_load_time', 'internal_links', 'external_links', 'secure_protocol', 'image_percentage', 'indexing_status_encoded']"
